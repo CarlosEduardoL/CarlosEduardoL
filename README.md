@@ -2,7 +2,7 @@
 
 ## About me 🧑
 
-I’m a graduate in telematics engineering and currently work as a DevOps/SRE at Perficient Latam. I’m passionate about technology and continuous learning. I love programming, solving problems, and facing interesting challenges.
+I’m a DevOps/SRE at Perficient Latam. I’m passionate about technology and continuous learning. I love programming, solving problems, and facing interesting challenges.
 
 ## Technical skills 💻
 
